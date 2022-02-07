@@ -26,7 +26,7 @@
 			<li id="firstLi"><a href="#">Home</a></li>
 			<li><a href="./aboutPage.html">About</a></li>
 			<li id="firstLis">Contact</li>
-			<li>login</li>
+			<li><a href="./sign_up_and_sign_in/sign_up_form.php">Sign Up</a></li>
 		</ul>
 	</div>
 	<div class="imageSection">
